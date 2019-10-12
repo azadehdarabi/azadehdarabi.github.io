@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "azadeh darabi"
-  avatar           : 
+  avatar           : "\assets\images\cool.jpg"
   bio              : "CE iust student" 
   location         : "تهران"
   email            : "azadehdarabi97@gmail.com"
