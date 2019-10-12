@@ -27,8 +27,8 @@ gallery:
     image_path: /assets/images/5.jpg
     alt: "placeholder image 5"
     title: "Image 5 title caption" 
-  - url: /assets/images/impala.jpg
-    image_path: /assets/images/impala.jpg
+  - url: /assets/images/impala.jfif
+    image_path: /assets/images/impala.jfif
     alt: "placeholder image 5"
     title: "Image 5 title caption"   
 ---
