@@ -13,7 +13,7 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "-" 
@@ -115,7 +115,7 @@ author:
   twitter: 
   linkedin: https://www.linkedin.com/in/azadeh-darabi-478191196/ 
   google_scholar:
-  github: azadehdarabi.github.io
+  github: https://azadehdarabi.github.io
   instagram: azadeh.darab
   links:
     - label: "Email"
