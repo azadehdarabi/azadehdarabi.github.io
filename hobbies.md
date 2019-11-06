@@ -9,6 +9,6 @@ comments: false
 ---
 
 
-* [game](https://www.agame.com/games/)
+* [game](https://www.miniclip.com/games/en/)
 
 
