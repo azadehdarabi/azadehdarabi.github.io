@@ -112,7 +112,7 @@ author:
   bio              : "CE iust student" 
   location         : "تهران"
   email            : "azadehdarabi97@gmail.com"
-  calendly         : "https://calendly.com/azadeh-darabimoghadam"
+  calendly         : "azadeh-darabimoghadam"
   twitter: 
   linkedin: azadeh-darabi-478191196
   google_scholar:
@@ -161,6 +161,9 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
+      # url:
+    - label: "calendly"
+      icon: "fab fa-fw fa-calendly"
       # url:
 
 
