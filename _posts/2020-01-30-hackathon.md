@@ -3,18 +3,17 @@ layout: posts
 title: Hackathon
 ---
 
-این پروژه با عنوان ساعت کاری،ساعت ورود و خروج کارمندان را ثبت می کند.>
-ایده ی این پروژه توسط برادرم مطرح شد و با کمک دکتر اعتمادی و آقای رحیمی آن را درست کردم.
-![صفحه اول سایت](https://azadehdarabi.github.io/assets/images/hackathon1.png)
-در این قسمت اسم فرد و ساعت ورود و خروج را وارد می کنیم
-![](https://azadehdarabi.github.io/assets/images/hackathon2.png)
-همانطور که مشاهده می شود اسم و ساعت ورود و خروج ثبت شده است 
-![](https://azadehdarabi.github.io/assets/images/hackathon3.png)
-با استفاده از گزینه ی add another one می توان به صفحه قبل برگشت و اسم دیگری را وارد کرد
-با استفاده از گزینه search نیز می توان در میان اسامی جستجو کرد.
-![](https://azadehdarabi.github.io/assets/images/hackathon4.png)
-
-این برنامه را در ارائه دسته جمعی معرفی کردم.
+The project, titled Working Hours, records the hours of arrival and departure of employees.
+The idea for this project was raised by my brother and with the help of Dr. Etemadi and Mr. Rahimi I made it.
+![site index](.../assets/images/hackathon1.png)
+In this section, enter the name of the person and the time of arrival and departure. 
+![enter th info](https://azadehdarabi.github.io/assets/images/hackathon2.png)
+As can be seen, the name and time of arrival and departure are recorded.
+![the recorded info](https://azadehdarabi.github.io/assets/images/hackathon3.png)
+use "add another one" option to return to the previous page and enter another name.
+The "Search" option can also search for names.
+![search option](https://azadehdarabi.github.io/assets/images/hackathon4.png)
+I introduced this program in mass presentation.
 http://98521162.pythonanywhere.com/
 
 
