@@ -9,7 +9,7 @@ title: Final Exam
 
 -The first question was about finding the length of a string.
 
-![string len](https://azadehdarabi.github.io/assets/images/stringlen.PNG)
+* [string len](https://azadehdarabi.github.io/assets/images/stringlen.PNG)
 
 -The second question wanted to copy a string to an empty string.
 ![string copy](https://azadehdarabi.github.io/assets/images/strcpy.PNG)
