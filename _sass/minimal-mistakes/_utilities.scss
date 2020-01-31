@@ -259,6 +259,11 @@ body:hover .visually-hidden button {
     color: $linkedin-color;
   }
 
+  .fa-calendly,
+  .fa-calendly-in {
+    color: $calendly-color;
+  }
+
   .fa-mastodon,
   .fa-mastodon-square {
     color: $mastodon-color;
