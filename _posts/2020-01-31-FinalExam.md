@@ -17,11 +17,13 @@ I couldn't solve the python questions because of the stress on the exam and when
 ![string count](https://azadehdarabi.github.io/assets/images/strcount.PNG)
 
 - The seventh question was to define a class called a Student that would get an ID or name as parameter and changes the name and ID of the struct to the new value.
-- [student class](https://azadehdarabi.github.io/assets/images/structpy.PNG)
+![student class](https://azadehdarabi.github.io/assets/images/structpy.PNG)
 
 - Question Eight receives a pointer to the student struct from the input and returns a string into student number, ":" and name.
 ![student tostring](https://azadehdarabi.github.io/assets/images/studenttost.PNG)
 
 - Question 9 takes an ID and name as a parameter and return its struct.
 ![create student](https://azadehdarabi.github.io/assets/images/createstudent.PNG)
+
+# C section:
 
